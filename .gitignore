@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.DS_Store
+yarn.lock
+server/node_modules
+server/package-lock.json
