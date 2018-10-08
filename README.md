@@ -1,6 +1,7 @@
 # RNMemory
 A two-player memory game created with React Native and Pusher.
 
+Full tutorial is available at: [https://pusher.com/tutorials/memory-game-react-native](https://pusher.com/tutorials/memory-game-react-native)
 
 ### Prerequisites
 
